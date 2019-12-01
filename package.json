@@ -1,0 +1,10 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "Advent of Code 2019",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "minttu",
+  "license": "ISC"
+}
