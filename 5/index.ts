@@ -123,7 +123,7 @@ class IntcodeMachine {
 					break;
 				}
 				default: {
-					throw new Error("Invalid opcode, opcode: "+op.code+", memdump: "+data);
+					throw new Error("Invalid opcode, opcode: "+op.code+", memdump: "+this.mem);
 					break;
 				}
 			}
